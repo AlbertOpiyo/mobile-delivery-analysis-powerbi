@@ -59,8 +59,8 @@ The number of damaged labels is 3511. There is a correlation between Manual Entr
 Goods returns were 3511
 
 ## Conclusion
-The Delivery app has not made any significant time improvement
-The goods returned, damaged labels and manual entry are highly correlated- does one cause the other? This should be looked into.
+* The Delivery app has not made any significant time improvement
+* The goods returned, damaged labels and manual entry are highly correlated- does one cause the other? This should be looked into.
 
 
 
